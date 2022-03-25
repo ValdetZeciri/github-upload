@@ -1,0 +1,32 @@
+= Projektantrag FutBet
+
+== Beschreibung
+
+FutBet ist eine Fußball-Webapplikation, in der man gegeneinander, innerhalb der Top Ligen bzw. Wettbewerbe, wetten kann.
+
+
+== Nutzen
+
+* Spielspaß
+* Fußballkentnisse unter Beweis stellen
+
+== Projektteam
+
+* Valdet Zeciri (Projektleiter)
+* Vanja Visekruna
+* Robert Nguyen
+* Raphael Stangl
+
+== Ziele
+
+* Liveticker
+* Bestenliste
+* Funktionierendes Wettsystem
+* Benutzerfreundliche Webapplikation
+
+
+== Technologien
+
+* Datenbank
+* HTML, CSS, JavaScript, PHP
+* Java
